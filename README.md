@@ -1,3 +1,4 @@
+(asset/preview.jpg)
 💙 About Me
 
 Ini adalah website profil sederhana yang saya buat untuk latihan HTML, CSS, dan JavaScript.
